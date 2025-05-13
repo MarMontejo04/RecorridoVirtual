@@ -119,6 +119,63 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &13519557
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 0c232bd63a33ff04a83ef7f4c34bef46, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 48.169056
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0c232bd63a33ff04a83ef7f4c34bef46, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 37.810867
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0c232bd63a33ff04a83ef7f4c34bef46, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 33.52953
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0c232bd63a33ff04a83ef7f4c34bef46, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0c232bd63a33ff04a83ef7f4c34bef46, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0c232bd63a33ff04a83ef7f4c34bef46, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0c232bd63a33ff04a83ef7f4c34bef46, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0c232bd63a33ff04a83ef7f4c34bef46, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0c232bd63a33ff04a83ef7f4c34bef46, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0c232bd63a33ff04a83ef7f4c34bef46, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0c232bd63a33ff04a83ef7f4c34bef46, type: 3}
+      propertyPath: m_Name
+      value: Wii - Animal Crossing City Folk - Tom Nook@Capoeira
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0c232bd63a33ff04a83ef7f4c34bef46, type: 3}
 --- !u!1001 &94456386
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -681,3 +738,4 @@ SceneRoots:
   - {fileID: 1603962064}
   - {fileID: 603272286}
   - {fileID: 94456386}
+  - {fileID: 13519557}
