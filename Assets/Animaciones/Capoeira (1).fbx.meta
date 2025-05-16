@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 7b2804f744c107444a027548be930e0d
+=======
+guid: 478ee33d37be26c49b06c9a37f9564bc
+>>>>>>> e0939476281ab78094ec31db7c143d89709aad8d
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -20,15 +24,22 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+<<<<<<< HEAD
     importAnimatedCustomProperties: 1
     importConstraints: 1
     animationCompression: 3
+=======
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+>>>>>>> e0939476281ab78094ec31db7c143d89709aad8d
     animationRotationError: 0.5
     animationPositionError: 0.5
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
+<<<<<<< HEAD
     clipAnimations:
     - serializedVersion: 16
       name: mixamo.com
@@ -59,6 +70,9 @@ ModelImporter:
       maskType: 3
       maskSource: {instanceID: 0}
       additiveReferencePoseFrame: 0
+=======
+    clipAnimations: []
+>>>>>>> e0939476281ab78094ec31db7c143d89709aad8d
     isReadable: 0
   meshes:
     lODScreenPercentages: []
@@ -120,6 +134,7 @@ ModelImporter:
     globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
+<<<<<<< HEAD
     hasExtraRoot: 1
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
@@ -127,6 +142,15 @@ ModelImporter:
   animationType: 3
   humanoidOversampling: 1
   avatarSetup: 1
+=======
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+>>>>>>> e0939476281ab78094ec31db7c143d89709aad8d
   addHumanoidExtraRootOnlyWhenUsingAvatar: 1
   importBlendShapeDeformPercent: 1
   remapMaterialsIfMaterialImportModeIsNone: 0
